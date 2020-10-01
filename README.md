@@ -1,6 +1,6 @@
 # WLAN-Stealer 
 
-[![Generic badge](https://img.shields.io/badge/<COMING SOON>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<COMING-SOON>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 Steal WIFi Passwords just send to exe file on Victim Computer
 ## Upcoming features
